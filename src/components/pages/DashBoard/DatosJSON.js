@@ -3,7 +3,7 @@ const datosIniciales = [
     {
       id: 1,
       nombreEspacio: "Comidas",
-      descripcion: "Cada plato es una obra de arte que despierta los sentidos y celebra el placer de comer con elegancia",
+      descripcion: "Elegancia en cada bocado, arte en cada plato. Comer aquí es una experiencia que va más allá del sabor.",
       foto: "NAN",
       capacidad: 10,
       calendario: [
@@ -21,8 +21,8 @@ const datosIniciales = [
     },
     {
       id: 2,
-      nombreEspacio: "Lugares",
-      descripcion: "Hay lugares que no solo se visitan, se sienten… espacios donde el alma encuentra calma y el tiempo se detiene",
+      nombreEspacio: "Lugares ",
+      descripcion: "Existen espacios que no se recorren con los pies, sino con el corazón. Lugares donde el alma encuentra sosiego y el tiempo parece hacerse silencio.",
       foto: "NAN",
       capacidad: 5,
       calendario: [

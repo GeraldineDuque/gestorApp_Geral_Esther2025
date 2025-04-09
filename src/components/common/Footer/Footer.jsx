@@ -2,7 +2,7 @@ import logoPipe from "../../../assets/img/A.png";
 export const Footer = () => {
     return (
         <div>
-         <footer className="text-white pt-4 pb-2 mt-5" style={{background:"black"}}>
+         <footer className="text-white pt-4 pb-2 mt-5" style={{background:"Black"}}>
             <div className="container text-center">
                 <div className="d-flex align-items-center gap-3 justify-content-center text-white">
                 <a className="navbar-brand" href="/#">

@@ -33,8 +33,8 @@ export const Catalogo = () => {
             />
             <div className="card-body">
               <p className="card-text">
-                &quot;Experimenta sabores que viajan y cuentan historias, en
-                cada coctel y bebida una aventura.&quot;
+                &quot;Descubre sabores que viajan por el mundo y narran
+                 historias únicas; en cada cóctel y bebida, una nueva aventura te espera..&quot;
               </p>
               <div className="d-flex align-items-center gap-3">
                 <div className="form-check">
@@ -69,8 +69,9 @@ export const Catalogo = () => {
             />
             <div className="card-body">
               <p className="card-text">
-                &quot;La parrillada, un lugar donde la tradición se encuentra
-                con la innovación.&quot;
+                &quot;La parrillada es más que una comida: es un encuentro entre el fuego de la 
+                tradición y la chispa de la innovación. Cada corte, cada aroma, cada bocado cuenta una historia 
+                que empieza en las brasas y termina en una experiencia inolvidable&quot;
               </p>
               <div className="form-check">
                 <input
@@ -101,8 +102,9 @@ export const Catalogo = () => {
             />
             <div className="card-body">
               <p className="card-text">
-                &quot;El aroma a carne asada, el crujir del pan y el sabor
-                explosivo de las salsas crean una sinfonía de sensaciones.&quot;
+                &quot;Rápidas en llegar, inolvidables al probar. Nuestras comidas 
+                rápidas no son solo una solución al hambre, son una explosión de sabor en cada mordisco.
+                 Pan recién tostado, ingredientes jugosos y salsas que despiertan el apetito al instante.&quot;
               </p>
               <div className="form-check">
                 <input
@@ -134,8 +136,8 @@ export const Catalogo = () => {
                 />
                 <div className="card-body">
                   <p className="card-text">
-                    &quot;Respira el aire puro de la montaña, donde el frío es
-                    un abrazo de la naturaleza.&quot;{" "}
+                    &quot;Aire puro, paisajes infinitos y un frío que no congela, sino que abraza. 
+                    Bienvenido a la montaña, donde cada respiro renueva.&quot;{" "}
                     <span className="fw-bold">Santa Elena</span>
                   </p>
                   <div className="d-flex align-items-center">
@@ -181,8 +183,8 @@ export const Catalogo = () => {
                 />
                 <div className="card-body">
                   <p className="card-text">
-                    Marinilla, un rincón lleno de cultura, historia y tradición
-                    antioqueña.
+                  Marinilla te espera con el alma de Antioquia: cultura vibrante, historia que emociona y tradición 
+                  que se vive en cada rincón. Ven y déjate sorprender por su esencia.
                   </p>
                   <div className="d-flex align-items-center">
                     <div className="form-check me-2">
@@ -226,8 +228,8 @@ export const Catalogo = () => {
                   }}
                 />
                 <p className="card-text text-center">
-                  Jericó, un pueblo mágico entre montañas, lleno de color, fe, y
-                  paisajes de ensueño.   <span className="fw-bold">Jerico</span>
+                Jericó, un tesoro entre montañas. Un pueblo mágico donde el color, la 
+                fe y los paisajes de ensueño te invitan a desconectar, descubrir y soñar despierto.   <span className="fw-bold">Jerico</span>
                 </p>
                 <div className="d-flex align-items-center">
                   <div className="form-check me-2">

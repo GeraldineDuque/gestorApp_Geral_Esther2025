@@ -23,23 +23,23 @@ export const Menu = () => {
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link to="/" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}>Inicio</Link>
+                <Link to="/" className="nav-link fw-bold" style={{ color: "White" }}>Inicio</Link>
               </li>
               <li className="nav-item">
-                <Link to="/booking" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}>Booking</Link>
+                <Link to="/booking" className="nav-link fw-bold" style={{ color: "white" }}>Booking</Link>
               </li>
               {/* <li className="nav-item text-white">
                 <Link to="/dashboard" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}>Dashboard</Link>
               </li> */}
 
               <li className="nav-item text-white">
-                <Link className="nav-link fw-bold" style={{ color: "#1c6eb4" }} to="/formulario">
+                <Link className="nav-link fw-bold" style={{ color: "White" }} to="/formulario">
                  Formulario
                  </Link>
               </li>
 
               <li className="nav-item text-white">
-                <Link to="/cata" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}>Catalogo</Link>
+                <Link to="/cata" className="nav-link fw-bold" style={{ color: "White" }}>Catalogo</Link>
               </li>
               <li className="nav-item dropdown">
               <a
@@ -49,29 +49,29 @@ export const Menu = () => {
                     role="button"
                     data-bs-toggle="dropdown"
                     aria-expanded="false"
-                    style={{ color: "#1c6eb4" }}
+                    style={{ color: "White" }}
                 >
                     Reservas
                 </a>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link to="/dashboard" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}> Crear Reserva</Link>
+                    <Link to="/dashboard" className="nav-link fw-bold" style={{ color: "black" }}> Crear Reserva</Link>
                   </li>
                   <li>
-                    <Link to="/listarpro" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}> Listar Reserva</Link>
+                    <Link to="/listarpro" className="nav-link fw-bold" style={{ color: "black" }}> Listar Reserva</Link>
                   </li>
                   <li>
-                    <Link to="/admin" className="nav-link fw-bold" style={{ color: "#1c6eb4" }}>  Administrar</Link>
+                    <Link to="/admin" className="nav-link fw-bold" style={{ color: "black" }}>  Administrar</Link>
                   </li>
                 </ul>
               </li>
             </ul>
            
             <span>
-              <Link to= "/entra"  className="navbar-text fw-bold"  style={{ color: "#1c6eb4" }}>Iniciar sesión</Link>
+              <Link to= "/entra"  className="navbar-text fw-bold"  style={{ color: "white" }}>Iniciar sesión</Link>
             </span>
             <span>
-              <Link to= "/car"  className="navbar-text fw-bold gap-5"  style={{ color: "#1c6eb4" }}><i className="bx bx-cart"></i></Link>
+              <Link to= "/car"  className="navbar-text fw-bold gap-5"  style={{ color: "white" }}><i className="bx bx-cart"></i></Link>
             </span>
 
           </div>
